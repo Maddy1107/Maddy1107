@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Nilankar Deb
-- 🌱 I have my Bachelors degree in Computer Science Engineering and have 2 years experience working in Infosys.
-      I’m currently pursuing my Masters in Computer Games Technology from City University of London.
-- 👀 I’m interested in programming, playing guitar.
-- 📫 You can contact me on my email - nilankar11@gmail.com
+[<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/channel/UC0b8dMrZqJMMC-4WGk-h0wg)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nilankar-deb-490904120/)
+
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC9Tl0-lzeDPH4y7LcRwRSQA)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9Tl0-lzeDPH4y7LcRwRSQA)
+
