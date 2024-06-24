@@ -15,7 +15,7 @@
 <br><br>
 
 <hr>
-<h1><p align = "center"><a href = "https://nilankardeb.com/">📚MY PORTOFOLIO📚</a></p></h1>
+<h1><p align = "center"><a href = "https://nilankar11.wixsite.com/nilankardeb">📚MY PORTOFOLIO📚</a></p></h1>
 <hr>
 
 <h2><p align = "center">MY TECH STACK</p></h2>
