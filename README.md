@@ -59,3 +59,6 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC0WFK7AG3c3XJWN2OJs_E9g)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0WFK7AG3c3XJWN2OJs_E9g)
+
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+
